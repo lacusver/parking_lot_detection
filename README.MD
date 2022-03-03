@@ -1,0 +1,1 @@
+Detect empty spots in parking lot.
